@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<sst xmlns="http://purl.oclc.org/ooxml/spreadsheetml/main">
+    <si>
+        <t>Hello</t>
+    </si>
+    <si>
+        <t>world</t>
+    </si>
+</sst>

@@ -1,0 +1,8 @@
+*.xlsx
+*~
+.DS_Store
+.Thumbs
+.idea/
+node_modules/
+npm-debug.log*
+~$*
